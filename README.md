@@ -1,4 +1,4 @@
-# flangapp_app
+# Fronix.cloud
 
 A new Flutter project.
 
